@@ -1,0 +1,134 @@
+body{
+margin:0;
+padding:0;
+}
+#colorbox1{
+background-color:#fff6ed;
+width:infinite;
+height: 250px;
+margin:0 auto;
+padding: 0;
+}
+#colorbox{
+	height:5px;
+	width: infinite;
+	background-color: red;
+}
+#chili{
+width:200px;
+height:100px;
+margin-left:75px;
+margin-top: 50px;
+}
+#restaurant{
+width:1550px;
+height:750px;
+	}
+	#shapedContainer{
+    width: 400px;
+    height: 100px;
+    background-color: #fcb2a4;
+    margin: 0 auto;
+    margin-top: 35px;
+    transition: background-color 1s;
+}
+ 
+.tabShape{
+    border-radius: 50px 50px 15px 15px;
+}
+#myLink, a#myLink, #myLink p, #myLink div, #navigation a{
+    text-decoration:none;
+}
+#navigation ul{
+    list-style-type: none;
+}
+
+#navigation ul li{
+    display: inline-block;
+    padding-right: 40px;
+    padding:25px 40px 25px 40px;
+    background-color: #f7f3c3;
+    font-family: Arial Black, serif;
+    color:#d80000;
+    text-transform: uppercase;
+    margin-right:55px;
+    margin-left: 122px;
+
+}
+
+#navigation ul li:hover{
+color:#750d0b;
+}
+
+#navigation ul li:visited{
+color:#ffff28;     
+}
+
+#navigation ul li:active{
+color:#ffc1ff;     
+}
+#appetizer{
+	width:450px;
+	height:400px;
+	margin-top:50px;
+}
+#burger{
+	width:450px;
+	height:400px;
+	margin-top:50px;
+}
+#font1{
+color:red;
+margin: 0 auto;
+align-content:center;
+text-align: center;
+font-size:3em;
+font-family:arial black;
+
+}
+#ribs{
+	width:450px;
+	height:400px;
+	margin-top:50px;
+}
+#font2{
+	width:200px;
+	font-family:arial;
+	font-size:1em;
+	margin: 0 auto;
+	text-align:center;
+	color:red;
+	display: inline-block;
+	margin-left:175px;
+}
+#font3{
+	width:200px;
+	font-family:arial;
+	font-size:1em;
+	margin: 0 auto;
+	text-align:center;
+	color:red;
+	display: inline-block;
+	margin-left:275px;
+	position:relative;
+
+}
+#font4{
+width:200px;
+font-family:arial;
+font-size:1em;
+margin: 0 auto;
+text-align:center;
+color:red;
+display: inline-block;
+margin-left:275px;
+position:relative;	
+}
+#font5{
+color:red;
+margin: 0 auto;
+align-content:center;
+text-align: center;
+font-size:2em;
+font-family:arial black;
+}
